@@ -1,0 +1,4 @@
+.env
+google-services.json
+__debug_bin*
+google-service.json
